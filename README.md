@@ -1,1 +1,2 @@
 # Calculator
+This is a simple calculator application built using Java's AWT (Abstract Window Toolkit). It provides basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus. The calculator features a user-friendly interface with buttons for numbers (0-9) and operations, along with a clear button to reset inputs. The operations are handled using an `ActionListener` for button clicks, and the results are displayed in a text field.
